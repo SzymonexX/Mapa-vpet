@@ -1,0 +1,29 @@
+@font-face 
+{
+    font-family: jost-black;
+    src: url(assets/fonts/Jost-ExtraBold.ttf);
+}
+.ad 
+{
+    float: left;
+    width: 20%;
+    height: 100%;
+}
+
+.main
+{
+    float: left;
+    overflow: hidden;
+    width: 60%;
+    padding: 0 20px;
+}
+
+.footer
+{
+    background-color: #f1f1f1;
+    text-align: center;
+    margin-top: 7px;
+    font-size: 24px;
+    font-family: jost-black;
+    float: none;
+}
